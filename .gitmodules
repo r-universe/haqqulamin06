@@ -5,6 +5,9 @@
 [submodule "ctablerseh"]
 	path = ctablerseh
 	url = https://github.com/cran/ctablerseh
+[submodule "hatsurvey"]
+	path = hatsurvey
+	url = https://github.com/cran/hatsurvey
 [submodule "mgwrhw"]
 	path = mgwrhw
 	url = https://github.com/cran/mgwrhw
